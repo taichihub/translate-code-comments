@@ -1,0 +1,23 @@
+{
+  "name": "translate-code-comments",
+  "version": "1.0.0",
+  "description": "コード内のコメントを異なる言語に自動翻訳するツールです",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taichihub/translate-code-comments.git"
+  },
+  "keywords": [
+    "translation",
+    "comments"
+  ],
+  "author": "TashimaTaichi taichikuniv21@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taichihub/translate-code-comments/issues"
+  },
+  "homepage": "https://github.com/taichihub/translate-code-comments#readme"
+}
